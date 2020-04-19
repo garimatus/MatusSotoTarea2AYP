@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1475016767 source:c:\users\gari\desktop\tarea 2 ayp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1475017985 c:\users\gari\desktop\tarea 2 ayp\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1474868613 c:\users\gari\desktop\tarea 2 ayp\funciones.h
+
+1473893625 c:\users\gari\desktop\tarea 2 ayp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
